@@ -4,7 +4,7 @@ export default async (req) => {
   if (req.method !== "GET") return json({ ok: false, error: "Method not allowed." }, 405);
   const u = new URL(req.url); const site = u.searchParams.get("site") || "skyline";
   const start = u.searchParams.get("start") || ""; const end = u.searchParams.get("end") || "";
-  const re = /^\\d{4}-\\d{2}-\\d{2}$/;
+  const re = /^\d{4}-\d{2}-\d{2}$/;
   if (!SITES[site]) return json({ ok:false, error:"Unknown project selected." },400);
   if (!re.test(start) || !re.test(end) || start > end) return json({ok:false,error:"Valid start and end dates are required."},400);
   try {
