@@ -1,17 +1,10 @@
 {
-  "updatedAt": "2026-10-24T23:57:54Z",
+  "updatedAt": "2026-10-26T00:03:03.010Z",
   "projects": {
     "skyline": {
       "name": "Skyline Stone Products",
       "siteUrl": "https://skylinestoneproducts.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 25,
-          "impressions": 2062,
-          "ctr": 0.01212415130940834,
-          "position": 11.693986420950534
-        },
         {
           "date": "2026-07-28",
           "clicks": 29,
@@ -620,6 +613,13 @@
           "impressions": 2566,
           "ctr": 0.013639906469212782,
           "position": 8.317225253312548
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 24,
+          "impressions": 2192,
+          "ctr": 0.010948905109489052,
+          "position": 8.784215328467154
         }
       ]
     },
@@ -627,13 +627,6 @@
       "name": "US.Miss Nella",
       "siteUrl": "https://us.missnella.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 74,
-          "impressions": 3303,
-          "ctr": 0.022403875264910687,
-          "position": 7.0429912201029365
-        },
         {
           "date": "2026-07-28",
           "clicks": 53,
@@ -1242,6 +1235,13 @@
           "impressions": 3448,
           "ctr": 0.017111368909512762,
           "position": 8.080336426914153
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 50,
+          "impressions": 3516,
+          "ctr": 0.01422070534698521,
+          "position": 7.83674630261661
         }
       ]
     },
@@ -1249,13 +1249,6 @@
       "name": "Miss Nella",
       "siteUrl": "https://www.missnella.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 46,
-          "impressions": 1194,
-          "ctr": 0.038525963149078725,
-          "position": 10.909547738693467
-        },
         {
           "date": "2026-07-28",
           "clicks": 52,
@@ -1864,6 +1857,13 @@
           "impressions": 1951,
           "ctr": 0.025115325474115838,
           "position": 9.753459764223475
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 31,
+          "impressions": 1563,
+          "ctr": 0.01983365323096609,
+          "position": 10.030070377479207
         }
       ]
     },
@@ -1871,13 +1871,6 @@
       "name": "ProAm Belts",
       "siteUrl": "https://proambelts.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 14,
-          "impressions": 1294,
-          "ctr": 0.010819165378670788,
-          "position": 8.234930448222567
-        },
         {
           "date": "2026-07-28",
           "clicks": 34,
@@ -2486,6 +2479,13 @@
           "impressions": 999,
           "ctr": 0.02002002002002002,
           "position": 6.864864864864865
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 26,
+          "impressions": 868,
+          "ctr": 0.029953917050691243,
+          "position": 7.700460829493087
         }
       ]
     },
@@ -2493,13 +2493,6 @@
       "name": "ChampionshipChains",
       "siteUrl": "https://championshipchains.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 1,
-          "impressions": 194,
-          "ctr": 0.005154639175257732,
-          "position": 18.237113402061855
-        },
         {
           "date": "2026-07-28",
           "clicks": 4,
@@ -3108,6 +3101,13 @@
           "impressions": 152,
           "ctr": 0.006578947368421052,
           "position": 18.717105263157894
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 1,
+          "impressions": 139,
+          "ctr": 0.007194244604316547,
+          "position": 11
         }
       ]
     },
@@ -3115,13 +3115,6 @@
       "name": "LavKids",
       "siteUrl": "https://lav-kids.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 174,
-          "impressions": 19215,
-          "ctr": 0.009055425448868072,
-          "position": 7.9371324486078585
-        },
         {
           "date": "2026-07-28",
           "clicks": 196,
@@ -3730,6 +3723,13 @@
           "impressions": 14494,
           "ctr": 0.010004139643990616,
           "position": 7.48026769697806
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 150,
+          "impressions": 14497,
+          "ctr": 0.010346968338276885,
+          "position": 7.276333034420914
         }
       ]
     },
@@ -3737,13 +3737,6 @@
       "name": "Memory Vault Box",
       "siteUrl": "https://memoryvaultbox.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 142,
-          "impressions": 26125,
-          "ctr": 0.005435406698564594,
-          "position": 9.852516746411483
-        },
         {
           "date": "2026-07-28",
           "clicks": 134,
@@ -4352,6 +4345,13 @@
           "impressions": 1180,
           "ctr": 0.0211864406779661,
           "position": 14.91186440677966
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 39,
+          "impressions": 1262,
+          "ctr": 0.030903328050713153,
+          "position": 13.252773375594295
         }
       ]
     },
@@ -4673,6 +4673,13 @@
           "impressions": 115,
           "ctr": 0,
           "position": 12.71304347826087
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 0,
+          "impressions": 137,
+          "ctr": 0,
+          "position": 11.124087591240876
         }
       ]
     },
@@ -4680,13 +4687,6 @@
       "name": "Theda Health",
       "siteUrl": "https://thedahealth.com/",
       "daily": [
-        {
-          "date": "2026-07-27",
-          "clicks": 0,
-          "impressions": 8,
-          "ctr": 0,
-          "position": 27
-        },
         {
           "date": "2026-07-28",
           "clicks": 0,
@@ -5295,6 +5295,13 @@
           "impressions": 30,
           "ctr": 0,
           "position": 24.433333333333334
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 0,
+          "impressions": 31,
+          "ctr": 0,
+          "position": 33.903225806451616
         }
       ]
     },
@@ -5553,6 +5560,13 @@
           "impressions": 188,
           "ctr": 0.14361702127659576,
           "position": 9.835106382978724
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 14,
+          "impressions": 124,
+          "ctr": 0.11290322580645161,
+          "position": 9.258064516129032
         }
       ]
     }
