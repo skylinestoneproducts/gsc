@@ -11,6 +11,29 @@
 @media(max-width:1050px){.goal-card #goalContent>.goal-layout{grid-template-columns:minmax(0,1fr)}.goal-card .goal-progress-side{display:none}.goal-card .goal-stats{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:650px){.goal-card{padding:16px!important}.goal-card .goal-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.goal-card .goal-metric{min-height:105px}.goal-card .goal-target-box{flex-wrap:wrap}.goal-card .goal-based-on{white-space:normal}.goal-card .goal-timeline{grid-template-columns:1fr}.goal-card .goal-daily-callout{text-align:left}}
 
+
+/* Final target-planner layout fix: size to the card itself, not viewport width. */
+.goal-card{container-type:inline-size;min-width:0;width:100%;overflow:hidden}
+.goal-card #goalContent>.goal-layout{display:grid!important;grid-template-columns:minmax(0,1fr) 156px!important;gap:14px!important;align-items:stretch!important;width:100%;min-width:0}
+.goal-card .goal-main{min-width:0;width:100%}
+.goal-card .goal-target-box{display:grid!important;grid-template-columns:42px minmax(0,1fr)!important;align-items:center;gap:10px!important;padding:13px!important;width:100%;min-width:0}
+.goal-card .goal-target-box label{display:flex;flex-direction:column;gap:6px;min-width:0;width:100%;font-size:12px;line-height:1.35}
+.goal-card .goal-target-box input{display:block;width:100%!important;max-width:none!important;min-width:0!important;box-sizing:border-box;font-size:18px!important}
+.goal-card .goal-target-box .goal-based-on{grid-column:1/-1;white-space:normal;line-height:1.4;max-width:100%;overflow-wrap:anywhere}
+.goal-card .goal-stats{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:9px!important;width:100%;min-width:0}
+.goal-card .goal-metric{width:100%;min-width:0;min-height:112px;padding:12px!important;overflow:hidden}
+.goal-card .goal-metric span{font-size:11px;line-height:1.35;overflow-wrap:anywhere}
+.goal-card .goal-metric strong{font-size:clamp(20px,4cqi,26px)!important;line-height:1.2;overflow-wrap:anywhere;word-break:normal}
+.goal-card .goal-metric small{font-size:10px;line-height:1.4;overflow-wrap:anywhere}
+.goal-card .goal-progress-side{min-width:0;width:100%;padding:12px 8px!important;display:flex;justify-content:center;align-items:center}
+.goal-card .goal-ring{width:min(100%,142px);height:auto;aspect-ratio:1/1;flex:0 0 auto}
+.goal-card .goal-progress-caption{overflow-wrap:anywhere;line-height:1.4}
+.goal-card .goal-timeline{display:grid;grid-template-columns:minmax(0,1fr) minmax(130px,auto)!important;gap:12px;min-width:0}
+.goal-card .goal-daily-callout{min-width:0;max-width:100%}
+.goal-card .goal-daily-callout strong{white-space:normal;overflow-wrap:anywhere;font-size:clamp(16px,3cqi,21px)!important}
+@container (max-width:560px){.goal-card #goalContent>.goal-layout{grid-template-columns:minmax(0,1fr)!important}.goal-card .goal-progress-side{display:grid;grid-template-columns:100px minmax(0,1fr);gap:12px;text-align:left}.goal-card .goal-ring{width:100px}.goal-card .goal-timeline{grid-template-columns:minmax(0,1fr)!important}.goal-card .goal-daily-callout{text-align:left}.goal-card .goal-target-box{grid-template-columns:36px minmax(0,1fr)!important}}
+@media(max-width:600px){.goal-card{padding:16px!important}.goal-card .goal-stats{grid-template-columns:repeat(2,minmax(0,1fr))!important}.goal-card .goal-timeline{grid-template-columns:minmax(0,1fr)!important}.goal-card .goal-daily-callout{text-align:left}}
+
 </style>
 </head>
 <body>
