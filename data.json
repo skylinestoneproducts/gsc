@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:41:00Z",
+  "updatedAt": "2026-10-28T05:43:00Z",
   "projects": {
     "skyline": {
       "name": "Skyline Stone Products",
@@ -5672,6 +5672,601 @@
       "siteUrl": "https://www.summitgeneralcounsel.com/",
       "daily": [
         {
+          "date": "2026-07-28",
+          "clicks": 0,
+          "impressions": 284,
+          "ctr": 0.0,
+          "position": 53.63028169014085
+        },
+        {
+          "date": "2026-07-29",
+          "clicks": 0,
+          "impressions": 282,
+          "ctr": 0.0,
+          "position": 49.163120567375884
+        },
+        {
+          "date": "2026-07-30",
+          "clicks": 2,
+          "impressions": 356,
+          "ctr": 0.0056179775280898875,
+          "position": 51.21910112359551
+        },
+        {
+          "date": "2026-07-31",
+          "clicks": 1,
+          "impressions": 255,
+          "ctr": 0.00392156862745098,
+          "position": 46.129411764705885
+        },
+        {
+          "date": "2026-08-01",
+          "clicks": 0,
+          "impressions": 135,
+          "ctr": 0.0,
+          "position": 51.08148148148148
+        },
+        {
+          "date": "2026-08-02",
+          "clicks": 0,
+          "impressions": 176,
+          "ctr": 0.0,
+          "position": 57.51136363636363
+        },
+        {
+          "date": "2026-08-03",
+          "clicks": 1,
+          "impressions": 250,
+          "ctr": 0.004,
+          "position": 39.568
+        },
+        {
+          "date": "2026-08-04",
+          "clicks": 0,
+          "impressions": 181,
+          "ctr": 0.0,
+          "position": 47.248618784530386
+        },
+        {
+          "date": "2026-08-05",
+          "clicks": 0,
+          "impressions": 369,
+          "ctr": 0.0,
+          "position": 38.94037940379404
+        },
+        {
+          "date": "2026-08-06",
+          "clicks": 3,
+          "impressions": 265,
+          "ctr": 0.011320754716981131,
+          "position": 36.75094339622642
+        },
+        {
+          "date": "2026-08-07",
+          "clicks": 0,
+          "impressions": 295,
+          "ctr": 0.0,
+          "position": 37.152542372881356
+        },
+        {
+          "date": "2026-08-08",
+          "clicks": 1,
+          "impressions": 484,
+          "ctr": 0.002066115702479339,
+          "position": 40.28719008264463
+        },
+        {
+          "date": "2026-08-09",
+          "clicks": 1,
+          "impressions": 711,
+          "ctr": 0.0014064697609001407,
+          "position": 46.949367088607595
+        },
+        {
+          "date": "2026-08-10",
+          "clicks": 2,
+          "impressions": 600,
+          "ctr": 0.0033333333333333335,
+          "position": 39.27166666666667
+        },
+        {
+          "date": "2026-08-11",
+          "clicks": 1,
+          "impressions": 526,
+          "ctr": 0.0019011406844106464,
+          "position": 38.35931558935361
+        },
+        {
+          "date": "2026-08-12",
+          "clicks": 2,
+          "impressions": 496,
+          "ctr": 0.004032258064516129,
+          "position": 40.72379032258065
+        },
+        {
+          "date": "2026-08-13",
+          "clicks": 2,
+          "impressions": 565,
+          "ctr": 0.0035398230088495575,
+          "position": 42.6212389380531
+        },
+        {
+          "date": "2026-08-14",
+          "clicks": 2,
+          "impressions": 444,
+          "ctr": 0.0045045045045045045,
+          "position": 37.98198198198198
+        },
+        {
+          "date": "2026-08-15",
+          "clicks": 1,
+          "impressions": 336,
+          "ctr": 0.002976190476190476,
+          "position": 37.520833333333336
+        },
+        {
+          "date": "2026-08-16",
+          "clicks": 0,
+          "impressions": 426,
+          "ctr": 0.0,
+          "position": 38.02582159624413
+        },
+        {
+          "date": "2026-08-17",
+          "clicks": 1,
+          "impressions": 326,
+          "ctr": 0.003067484662576687,
+          "position": 41.1840490797546
+        },
+        {
+          "date": "2026-08-18",
+          "clicks": 3,
+          "impressions": 288,
+          "ctr": 0.010416666666666666,
+          "position": 47.71875
+        },
+        {
+          "date": "2026-08-19",
+          "clicks": 0,
+          "impressions": 324,
+          "ctr": 0.0,
+          "position": 46.90432098765432
+        },
+        {
+          "date": "2026-08-20",
+          "clicks": 1,
+          "impressions": 440,
+          "ctr": 0.0022727272727272726,
+          "position": 43.486363636363635
+        },
+        {
+          "date": "2026-08-21",
+          "clicks": 0,
+          "impressions": 297,
+          "ctr": 0.0,
+          "position": 43.5993265993266
+        },
+        {
+          "date": "2026-08-22",
+          "clicks": 3,
+          "impressions": 355,
+          "ctr": 0.008450704225352112,
+          "position": 53.68450704225352
+        },
+        {
+          "date": "2026-08-23",
+          "clicks": 1,
+          "impressions": 388,
+          "ctr": 0.002577319587628866,
+          "position": 50.81443298969072
+        },
+        {
+          "date": "2026-08-24",
+          "clicks": 2,
+          "impressions": 431,
+          "ctr": 0.004640371229698376,
+          "position": 48.1600928074246
+        },
+        {
+          "date": "2026-08-25",
+          "clicks": 0,
+          "impressions": 485,
+          "ctr": 0.0,
+          "position": 49.327835051546394
+        },
+        {
+          "date": "2026-08-26",
+          "clicks": 1,
+          "impressions": 369,
+          "ctr": 0.0027100271002710027,
+          "position": 50.46341463414634
+        },
+        {
+          "date": "2026-08-27",
+          "clicks": 1,
+          "impressions": 383,
+          "ctr": 0.0026109660574412533,
+          "position": 47.59791122715405
+        },
+        {
+          "date": "2026-08-28",
+          "clicks": 4,
+          "impressions": 370,
+          "ctr": 0.010810810810810811,
+          "position": 45.6027027027027
+        },
+        {
+          "date": "2026-08-29",
+          "clicks": 0,
+          "impressions": 305,
+          "ctr": 0.0,
+          "position": 53.06885245901639
+        },
+        {
+          "date": "2026-08-30",
+          "clicks": 4,
+          "impressions": 357,
+          "ctr": 0.011204481792717087,
+          "position": 49.831932773109244
+        },
+        {
+          "date": "2026-08-31",
+          "clicks": 1,
+          "impressions": 477,
+          "ctr": 0.0020964360587002098,
+          "position": 44.81761006289308
+        },
+        {
+          "date": "2026-09-01",
+          "clicks": 1,
+          "impressions": 410,
+          "ctr": 0.0024390243902439024,
+          "position": 44.146341463414636
+        },
+        {
+          "date": "2026-09-02",
+          "clicks": 2,
+          "impressions": 424,
+          "ctr": 0.0047169811320754715,
+          "position": 39.70283018867924
+        },
+        {
+          "date": "2026-09-03",
+          "clicks": 0,
+          "impressions": 355,
+          "ctr": 0.0,
+          "position": 49.07605633802817
+        },
+        {
+          "date": "2026-09-04",
+          "clicks": 0,
+          "impressions": 370,
+          "ctr": 0.0,
+          "position": 44.383783783783784
+        },
+        {
+          "date": "2026-09-05",
+          "clicks": 0,
+          "impressions": 335,
+          "ctr": 0.0,
+          "position": 43.71940298507463
+        },
+        {
+          "date": "2026-09-06",
+          "clicks": 0,
+          "impressions": 359,
+          "ctr": 0.0,
+          "position": 44.155988857938716
+        },
+        {
+          "date": "2026-09-07",
+          "clicks": 0,
+          "impressions": 344,
+          "ctr": 0.0,
+          "position": 42.18023255813954
+        },
+        {
+          "date": "2026-09-08",
+          "clicks": 0,
+          "impressions": 332,
+          "ctr": 0.0,
+          "position": 37.4066265060241
+        },
+        {
+          "date": "2026-09-09",
+          "clicks": 1,
+          "impressions": 409,
+          "ctr": 0.0024449877750611247,
+          "position": 38.99022004889976
+        },
+        {
+          "date": "2026-09-10",
+          "clicks": 2,
+          "impressions": 304,
+          "ctr": 0.006578947368421052,
+          "position": 31.792763157894736
+        },
+        {
+          "date": "2026-09-11",
+          "clicks": 1,
+          "impressions": 269,
+          "ctr": 0.0037174721189591076,
+          "position": 32.75836431226766
+        },
+        {
+          "date": "2026-09-12",
+          "clicks": 0,
+          "impressions": 288,
+          "ctr": 0.0,
+          "position": 35.888888888888886
+        },
+        {
+          "date": "2026-09-13",
+          "clicks": 0,
+          "impressions": 270,
+          "ctr": 0.0,
+          "position": 30.918518518518518
+        },
+        {
+          "date": "2026-09-14",
+          "clicks": 1,
+          "impressions": 355,
+          "ctr": 0.0028169014084507044,
+          "position": 33.23380281690141
+        },
+        {
+          "date": "2026-09-15",
+          "clicks": 0,
+          "impressions": 330,
+          "ctr": 0.0,
+          "position": 30.803030303030305
+        },
+        {
+          "date": "2026-09-16",
+          "clicks": 2,
+          "impressions": 312,
+          "ctr": 0.00641025641025641,
+          "position": 29.951923076923077
+        },
+        {
+          "date": "2026-09-17",
+          "clicks": 2,
+          "impressions": 226,
+          "ctr": 0.008849557522123894,
+          "position": 27.75221238938053
+        },
+        {
+          "date": "2026-09-18",
+          "clicks": 0,
+          "impressions": 211,
+          "ctr": 0.0,
+          "position": 30.526066350710902
+        },
+        {
+          "date": "2026-09-19",
+          "clicks": 1,
+          "impressions": 162,
+          "ctr": 0.006172839506172839,
+          "position": 29.604938271604937
+        },
+        {
+          "date": "2026-09-20",
+          "clicks": 2,
+          "impressions": 182,
+          "ctr": 0.01098901098901099,
+          "position": 34.104395604395606
+        },
+        {
+          "date": "2026-09-21",
+          "clicks": 1,
+          "impressions": 278,
+          "ctr": 0.0035971223021582736,
+          "position": 25.658273381294965
+        },
+        {
+          "date": "2026-09-22",
+          "clicks": 0,
+          "impressions": 212,
+          "ctr": 0.0,
+          "position": 30.891509433962263
+        },
+        {
+          "date": "2026-09-23",
+          "clicks": 2,
+          "impressions": 300,
+          "ctr": 0.006666666666666667,
+          "position": 36.29666666666667
+        },
+        {
+          "date": "2026-09-24",
+          "clicks": 5,
+          "impressions": 222,
+          "ctr": 0.02252252252252252,
+          "position": 27.48198198198198
+        },
+        {
+          "date": "2026-09-25",
+          "clicks": 1,
+          "impressions": 228,
+          "ctr": 0.0043859649122807015,
+          "position": 27.75438596491228
+        },
+        {
+          "date": "2026-09-26",
+          "clicks": 1,
+          "impressions": 233,
+          "ctr": 0.004291845493562232,
+          "position": 27.068669527896997
+        },
+        {
+          "date": "2026-09-27",
+          "clicks": 4,
+          "impressions": 228,
+          "ctr": 0.017543859649122806,
+          "position": 22.92105263157895
+        },
+        {
+          "date": "2026-09-28",
+          "clicks": 6,
+          "impressions": 327,
+          "ctr": 0.01834862385321101,
+          "position": 23.162079510703364
+        },
+        {
+          "date": "2026-09-29",
+          "clicks": 1,
+          "impressions": 293,
+          "ctr": 0.0034129692832764505,
+          "position": 23.85665529010239
+        },
+        {
+          "date": "2026-09-30",
+          "clicks": 0,
+          "impressions": 297,
+          "ctr": 0.0,
+          "position": 24.713804713804713
+        },
+        {
+          "date": "2026-10-01",
+          "clicks": 0,
+          "impressions": 311,
+          "ctr": 0.0,
+          "position": 28.778135048231512
+        },
+        {
+          "date": "2026-10-02",
+          "clicks": 3,
+          "impressions": 332,
+          "ctr": 0.009036144578313253,
+          "position": 31.13855421686747
+        },
+        {
+          "date": "2026-10-03",
+          "clicks": 0,
+          "impressions": 248,
+          "ctr": 0.0,
+          "position": 26.705645161290324
+        },
+        {
+          "date": "2026-10-04",
+          "clicks": 0,
+          "impressions": 298,
+          "ctr": 0.0,
+          "position": 29.238255033557046
+        },
+        {
+          "date": "2026-10-05",
+          "clicks": 1,
+          "impressions": 413,
+          "ctr": 0.002421307506053269,
+          "position": 29.416464891041162
+        },
+        {
+          "date": "2026-10-06",
+          "clicks": 4,
+          "impressions": 351,
+          "ctr": 0.011396011396011397,
+          "position": 26.005698005698004
+        },
+        {
+          "date": "2026-10-07",
+          "clicks": 3,
+          "impressions": 427,
+          "ctr": 0.00702576112412178,
+          "position": 30.030444964871194
+        },
+        {
+          "date": "2026-10-08",
+          "clicks": 0,
+          "impressions": 304,
+          "ctr": 0.0,
+          "position": 25.855263157894736
+        },
+        {
+          "date": "2026-10-09",
+          "clicks": 1,
+          "impressions": 303,
+          "ctr": 0.0033003300330033004,
+          "position": 21.653465346534652
+        },
+        {
+          "date": "2026-10-10",
+          "clicks": 2,
+          "impressions": 216,
+          "ctr": 0.009259259259259259,
+          "position": 30.333333333333332
+        },
+        {
+          "date": "2026-10-11",
+          "clicks": 0,
+          "impressions": 227,
+          "ctr": 0.0,
+          "position": 25.709251101321588
+        },
+        {
+          "date": "2026-10-12",
+          "clicks": 3,
+          "impressions": 307,
+          "ctr": 0.009771986970684038,
+          "position": 24.400651465798045
+        },
+        {
+          "date": "2026-10-13",
+          "clicks": 6,
+          "impressions": 419,
+          "ctr": 0.014319809069212411,
+          "position": 24.768496420047732
+        },
+        {
+          "date": "2026-10-14",
+          "clicks": 10,
+          "impressions": 531,
+          "ctr": 0.018832391713747645,
+          "position": 31.12241054613936
+        },
+        {
+          "date": "2026-10-15",
+          "clicks": 4,
+          "impressions": 545,
+          "ctr": 0.007339449541284404,
+          "position": 29.627522935779815
+        },
+        {
+          "date": "2026-10-16",
+          "clicks": 6,
+          "impressions": 627,
+          "ctr": 0.009569377990430622,
+          "position": 32.730462519936204
+        },
+        {
+          "date": "2026-10-17",
+          "clicks": 2,
+          "impressions": 489,
+          "ctr": 0.00408997955010225,
+          "position": 38.5521472392638
+        },
+        {
+          "date": "2026-10-18",
+          "clicks": 4,
+          "impressions": 511,
+          "ctr": 0.007827788649706457,
+          "position": 31.886497064579256
+        },
+        {
+          "date": "2026-10-19",
+          "clicks": 8,
+          "impressions": 689,
+          "ctr": 0.011611030478955007,
+          "position": 27.18577648766328
+        },
+        {
+          "date": "2026-10-20",
+          "clicks": 4,
+          "impressions": 676,
+          "ctr": 0.005917159763313609,
+          "position": 29.468934911242602
+        },
+        {
           "date": "2026-10-21",
           "clicks": 4,
           "impressions": 701,
@@ -5712,6 +6307,517 @@
       "name": "Diesel Works BTX",
       "siteUrl": "https://dieselworksbtx.com/",
       "daily": [
+        {
+          "date": "2026-08-09",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 24.0
+        },
+        {
+          "date": "2026-08-10",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 31.0
+        },
+        {
+          "date": "2026-08-11",
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0
+        },
+        {
+          "date": "2026-08-12",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 37.666666666666664
+        },
+        {
+          "date": "2026-08-13",
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 54.68421052631579
+        },
+        {
+          "date": "2026-08-14",
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 59.470588235294116
+        },
+        {
+          "date": "2026-08-15",
+          "clicks": 0,
+          "impressions": 15,
+          "ctr": 0.0,
+          "position": 61.86666666666667
+        },
+        {
+          "date": "2026-08-16",
+          "clicks": 0,
+          "impressions": 24,
+          "ctr": 0.0,
+          "position": 55.291666666666664
+        },
+        {
+          "date": "2026-08-17",
+          "clicks": 0,
+          "impressions": 29,
+          "ctr": 0.0,
+          "position": 54.241379310344826
+        },
+        {
+          "date": "2026-08-18",
+          "clicks": 0,
+          "impressions": 23,
+          "ctr": 0.0,
+          "position": 56.04347826086956
+        },
+        {
+          "date": "2026-08-19",
+          "clicks": 0,
+          "impressions": 24,
+          "ctr": 0.0,
+          "position": 53.083333333333336
+        },
+        {
+          "date": "2026-08-20",
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 51.88461538461539
+        },
+        {
+          "date": "2026-08-21",
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 57.89473684210526
+        },
+        {
+          "date": "2026-08-22",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 55.6875
+        },
+        {
+          "date": "2026-08-23",
+          "clicks": 0,
+          "impressions": 28,
+          "ctr": 0.0,
+          "position": 46.535714285714285
+        },
+        {
+          "date": "2026-08-24",
+          "clicks": 0,
+          "impressions": 38,
+          "ctr": 0.0,
+          "position": 52.60526315789474
+        },
+        {
+          "date": "2026-08-25",
+          "clicks": 0,
+          "impressions": 41,
+          "ctr": 0.0,
+          "position": 46.609756097560975
+        },
+        {
+          "date": "2026-08-26",
+          "clicks": 0,
+          "impressions": 37,
+          "ctr": 0.0,
+          "position": 37.486486486486484
+        },
+        {
+          "date": "2026-08-27",
+          "clicks": 0,
+          "impressions": 40,
+          "ctr": 0.0,
+          "position": 40.2
+        },
+        {
+          "date": "2026-08-28",
+          "clicks": 0,
+          "impressions": 36,
+          "ctr": 0.0,
+          "position": 47.44444444444444
+        },
+        {
+          "date": "2026-08-29",
+          "clicks": 0,
+          "impressions": 30,
+          "ctr": 0.0,
+          "position": 34.46666666666667
+        },
+        {
+          "date": "2026-08-30",
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 38.42857142857143
+        },
+        {
+          "date": "2026-08-31",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 37.857142857142854
+        },
+        {
+          "date": "2026-09-01",
+          "clicks": 1,
+          "impressions": 27,
+          "ctr": 0.037037037037037035,
+          "position": 17.666666666666668
+        },
+        {
+          "date": "2026-09-02",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 29.375
+        },
+        {
+          "date": "2026-09-03",
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 35.1578947368421
+        },
+        {
+          "date": "2026-09-04",
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 43.18181818181818
+        },
+        {
+          "date": "2026-09-05",
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 49.3
+        },
+        {
+          "date": "2026-09-06",
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 25.904761904761905
+        },
+        {
+          "date": "2026-09-07",
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 44.73076923076923
+        },
+        {
+          "date": "2026-09-08",
+          "clicks": 0,
+          "impressions": 42,
+          "ctr": 0.0,
+          "position": 19.952380952380953
+        },
+        {
+          "date": "2026-09-09",
+          "clicks": 0,
+          "impressions": 29,
+          "ctr": 0.0,
+          "position": 31.344827586206897
+        },
+        {
+          "date": "2026-09-10",
+          "clicks": 0,
+          "impressions": 50,
+          "ctr": 0.0,
+          "position": 30.26
+        },
+        {
+          "date": "2026-09-11",
+          "clicks": 0,
+          "impressions": 47,
+          "ctr": 0.0,
+          "position": 35.765957446808514
+        },
+        {
+          "date": "2026-09-12",
+          "clicks": 0,
+          "impressions": 34,
+          "ctr": 0.0,
+          "position": 37.88235294117647
+        },
+        {
+          "date": "2026-09-13",
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 66.0
+        },
+        {
+          "date": "2026-09-14",
+          "clicks": 0,
+          "impressions": 32,
+          "ctr": 0.0,
+          "position": 23.71875
+        },
+        {
+          "date": "2026-09-15",
+          "clicks": 0,
+          "impressions": 43,
+          "ctr": 0.0,
+          "position": 25.023255813953487
+        },
+        {
+          "date": "2026-09-16",
+          "clicks": 0,
+          "impressions": 23,
+          "ctr": 0.0,
+          "position": 21.391304347826086
+        },
+        {
+          "date": "2026-09-17",
+          "clicks": 0,
+          "impressions": 38,
+          "ctr": 0.0,
+          "position": 16.578947368421055
+        },
+        {
+          "date": "2026-09-18",
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 25.736842105263158
+        },
+        {
+          "date": "2026-09-19",
+          "clicks": 0,
+          "impressions": 218,
+          "ctr": 0.0,
+          "position": 17.706422018348626
+        },
+        {
+          "date": "2026-09-20",
+          "clicks": 0,
+          "impressions": 68,
+          "ctr": 0.0,
+          "position": 20.676470588235293
+        },
+        {
+          "date": "2026-09-21",
+          "clicks": 1,
+          "impressions": 271,
+          "ctr": 0.0036900369003690036,
+          "position": 21.18450184501845
+        },
+        {
+          "date": "2026-09-22",
+          "clicks": 0,
+          "impressions": 33,
+          "ctr": 0.0,
+          "position": 24.060606060606062
+        },
+        {
+          "date": "2026-09-23",
+          "clicks": 0,
+          "impressions": 153,
+          "ctr": 0.0,
+          "position": 21.333333333333332
+        },
+        {
+          "date": "2026-09-24",
+          "clicks": 4,
+          "impressions": 148,
+          "ctr": 0.02702702702702703,
+          "position": 19.695945945945947
+        },
+        {
+          "date": "2026-09-25",
+          "clicks": 0,
+          "impressions": 84,
+          "ctr": 0.0,
+          "position": 25.88095238095238
+        },
+        {
+          "date": "2026-09-26",
+          "clicks": 0,
+          "impressions": 239,
+          "ctr": 0.0,
+          "position": 23.01255230125523
+        },
+        {
+          "date": "2026-09-27",
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 25.666666666666668
+        },
+        {
+          "date": "2026-09-28",
+          "clicks": 0,
+          "impressions": 56,
+          "ctr": 0.0,
+          "position": 22.535714285714285
+        },
+        {
+          "date": "2026-09-29",
+          "clicks": 0,
+          "impressions": 32,
+          "ctr": 0.0,
+          "position": 19.0625
+        },
+        {
+          "date": "2026-09-30",
+          "clicks": 1,
+          "impressions": 23,
+          "ctr": 0.043478260869565216,
+          "position": 15.217391304347826
+        },
+        {
+          "date": "2026-10-01",
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 27.5
+        },
+        {
+          "date": "2026-10-02",
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 15.409090909090908
+        },
+        {
+          "date": "2026-10-03",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 16.8
+        },
+        {
+          "date": "2026-10-04",
+          "clicks": 1,
+          "impressions": 14,
+          "ctr": 0.07142857142857142,
+          "position": 10.142857142857142
+        },
+        {
+          "date": "2026-10-05",
+          "clicks": 1,
+          "impressions": 14,
+          "ctr": 0.07142857142857142,
+          "position": 11.571428571428571
+        },
+        {
+          "date": "2026-10-06",
+          "clicks": 1,
+          "impressions": 10,
+          "ctr": 0.1,
+          "position": 10.3
+        },
+        {
+          "date": "2026-10-07",
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 19.555555555555557
+        },
+        {
+          "date": "2026-10-08",
+          "clicks": 1,
+          "impressions": 15,
+          "ctr": 0.06666666666666667,
+          "position": 20.733333333333334
+        },
+        {
+          "date": "2026-10-09",
+          "clicks": 1,
+          "impressions": 26,
+          "ctr": 0.038461538461538464,
+          "position": 25.692307692307693
+        },
+        {
+          "date": "2026-10-10",
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 26.076923076923077
+        },
+        {
+          "date": "2026-10-11",
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 21.444444444444443
+        },
+        {
+          "date": "2026-10-12",
+          "clicks": 3,
+          "impressions": 21,
+          "ctr": 0.14285714285714285,
+          "position": 29.61904761904762
+        },
+        {
+          "date": "2026-10-13",
+          "clicks": 1,
+          "impressions": 31,
+          "ctr": 0.03225806451612903,
+          "position": 31.774193548387096
+        },
+        {
+          "date": "2026-10-14",
+          "clicks": 0,
+          "impressions": 23,
+          "ctr": 0.0,
+          "position": 16.82608695652174
+        },
+        {
+          "date": "2026-10-15",
+          "clicks": 0,
+          "impressions": 27,
+          "ctr": 0.0,
+          "position": 29.40740740740741
+        },
+        {
+          "date": "2026-10-16",
+          "clicks": 0,
+          "impressions": 38,
+          "ctr": 0.0,
+          "position": 48.973684210526315
+        },
+        {
+          "date": "2026-10-17",
+          "clicks": 1,
+          "impressions": 20,
+          "ctr": 0.05,
+          "position": 19.35
+        },
+        {
+          "date": "2026-10-18",
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 34.65
+        },
+        {
+          "date": "2026-10-19",
+          "clicks": 0,
+          "impressions": 31,
+          "ctr": 0.0,
+          "position": 35.83870967741935
+        },
+        {
+          "date": "2026-10-20",
+          "clicks": 0,
+          "impressions": 117,
+          "ctr": 0.0,
+          "position": 24.487179487179485
+        },
         {
           "date": "2026-10-21",
           "clicks": 5,
