@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:27:50.308Z",
+  "updatedAt": "2026-10-28T05:41:00Z",
   "projects": {
     "skyline": {
       "name": "Skyline Stone Products",
@@ -5657,17 +5657,97 @@
     "predatorprime": {
       "name": "Predator Prime",
       "siteUrl": "https://predatorprime.com/",
-      "daily": []
+      "daily": [
+        {
+          "date": "2026-10-25",
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0
+        }
+      ]
     },
     "summitgeneralcounsel": {
       "name": "Summit General Counsel",
       "siteUrl": "https://www.summitgeneralcounsel.com/",
-      "daily": []
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "clicks": 4,
+          "impressions": 701,
+          "ctr": 0.005706134094151213,
+          "position": 34.360912981455066
+        },
+        {
+          "date": "2026-10-22",
+          "clicks": 2,
+          "impressions": 648,
+          "ctr": 0.0030864197530864196,
+          "position": 30.055555555555557
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 4,
+          "impressions": 605,
+          "ctr": 0.006611570247933884,
+          "position": 31.692561983471073
+        },
+        {
+          "date": "2026-10-24",
+          "clicks": 0,
+          "impressions": 493,
+          "ctr": 0.0,
+          "position": 37.58215010141988
+        },
+        {
+          "date": "2026-10-25",
+          "clicks": 0,
+          "impressions": 476,
+          "ctr": 0.0,
+          "position": 36.27731092436975
+        }
+      ]
     },
     "dieselworksbtx": {
       "name": "Diesel Works BTX",
       "siteUrl": "https://dieselworksbtx.com/",
-      "daily": []
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "clicks": 5,
+          "impressions": 41,
+          "ctr": 0.12195121951219512,
+          "position": 16.390243902439025
+        },
+        {
+          "date": "2026-10-22",
+          "clicks": 3,
+          "impressions": 149,
+          "ctr": 0.020134228187919462,
+          "position": 20.201342281879196
+        },
+        {
+          "date": "2026-10-23",
+          "clicks": 2,
+          "impressions": 36,
+          "ctr": 0.05555555555555555,
+          "position": 17.583333333333332
+        },
+        {
+          "date": "2026-10-24",
+          "clicks": 0,
+          "impressions": 89,
+          "ctr": 0.0,
+          "position": 21.50561797752809
+        },
+        {
+          "date": "2026-10-25",
+          "clicks": 0,
+          "impressions": 49,
+          "ctr": 0.0,
+          "position": 27.142857142857142
+        }
+      ]
     }
   }
 }
