@@ -1,1 +1,14 @@
-{"source":"/mnt/files/mex/data-updated.json"}
+{
+  "updatedAt": "2026-10-29T04:36:19Z",
+  "projects": {
+    "memoryvaultbox": {
+      "name": "Memory Vault Box",
+      "siteUrl": "https://memoryvaultbox.com/",
+      "daily": [
+        {"date":"2026-10-24","clicks":23,"impressions":1318,"ctr":0.017450682852807285,"position":14.437025796661608},
+        {"date":"2026-10-25","clicks":40,"impressions":1443,"ctr":0.02772002772002772,"position":16.844074844074846},
+        {"date":"2026-10-26","clicks":27,"impressions":1295,"ctr":0.02084942084942085,"position":13.177606177606178}
+      ]
+    }
+  }
+}
