@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:36:19Z",
+  "updatedAt": "2026-10-29T04:55:00Z",
   "projects": {
     "skyline": {
       "name": "Skyline Stone Products",
@@ -3191,13 +3191,13 @@
           "clicks": 1,
           "impressions": 139,
           "ctr": 0.007194244604316547,
-          "position": 11
+          "position": 11.0
         },
         {
           "date": "2026-10-24",
           "clicks": 0,
           "impressions": 131,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 12.419847328244275
         },
         {
@@ -3817,45 +3817,45 @@
         },
         {
           "date": "2026-10-21",
-          "clicks": 160,
-          "impressions": 14364,
-          "ctr": 0.01113895850737956,
-          "position": 7.445767195767195
+          "clicks": 158,
+          "impressions": 14346,
+          "ctr": 0.011013522933221803,
+          "position": 7.439565035549979
         },
         {
           "date": "2026-10-22",
-          "clicks": 146,
-          "impressions": 14519,
-          "ctr": 0.010055788966182243,
-          "position": 7.477925476961223
+          "clicks": 145,
+          "impressions": 14494,
+          "ctr": 0.010004139643990616,
+          "position": 7.48026769697806
         },
         {
           "date": "2026-10-23",
-          "clicks": 151,
-          "impressions": 14524,
-          "ctr": 0.010396584962820159,
-          "position": 7.2799504268796476
+          "clicks": 150,
+          "impressions": 14497,
+          "ctr": 0.010346968338276885,
+          "position": 7.276333034420914
         },
         {
           "date": "2026-10-24",
           "clicks": 192,
-          "impressions": 16217,
-          "ctr": 0.011839427760991552,
-          "position": 7.400813960658568
+          "impressions": 16194,
+          "ctr": 0.011856243052982586,
+          "position": 7.39743114733852
         },
         {
           "date": "2026-10-25",
-          "clicks": 193,
-          "impressions": 17269,
-          "ctr": 0.011176095894377208,
-          "position": 7.185303144362731
+          "clicks": 192,
+          "impressions": 17238,
+          "ctr": 0.011138183083884442,
+          "position": 7.181343543334494
         },
         {
           "date": "2026-10-26",
-          "clicks": 235,
-          "impressions": 15438,
-          "ctr": 0.015222179038735588,
-          "position": 7.1092110376991835
+          "clicks": 234,
+          "impressions": 15417,
+          "ctr": 0.015178050204319907,
+          "position": 7.10747875721606
         }
       ]
     },
@@ -4804,29 +4804,50 @@
           "date": "2026-10-20",
           "clicks": 0,
           "impressions": 22,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 7.5
         },
         {
           "date": "2026-10-21",
           "clicks": 0,
           "impressions": 67,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 7.507462686567164
         },
         {
           "date": "2026-10-22",
           "clicks": 0,
           "impressions": 115,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 12.71304347826087
         },
         {
           "date": "2026-10-23",
           "clicks": 0,
           "impressions": 137,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 11.124087591240876
+        },
+        {
+          "date": "2026-10-24",
+          "clicks": 0,
+          "impressions": 193,
+          "ctr": 0.0,
+          "position": 10.44559585492228
+        },
+        {
+          "date": "2026-10-25",
+          "clicks": 0,
+          "impressions": 188,
+          "ctr": 0.0,
+          "position": 7.037234042553192
+        },
+        {
+          "date": "2026-10-26",
+          "clicks": 2,
+          "impressions": 149,
+          "ctr": 0.013422818791946308,
+          "position": 8.449664429530202
         }
       ]
     },
@@ -5426,7 +5447,7 @@
           "date": "2026-10-20",
           "clicks": 0,
           "impressions": 21,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 28.428571428571427
         },
         {
@@ -5440,15 +5461,36 @@
           "date": "2026-10-22",
           "clicks": 0,
           "impressions": 30,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 24.433333333333334
         },
         {
           "date": "2026-10-23",
           "clicks": 0,
           "impressions": 31,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 33.903225806451616
+        },
+        {
+          "date": "2026-10-24",
+          "clicks": 0,
+          "impressions": 28,
+          "ctr": 0.0,
+          "position": 26.821428571428573
+        },
+        {
+          "date": "2026-10-25",
+          "clicks": 1,
+          "impressions": 36,
+          "ctr": 0.027777777777777776,
+          "position": 19.86111111111111
+        },
+        {
+          "date": "2026-10-26",
+          "clicks": 1,
+          "impressions": 35,
+          "ctr": 0.02857142857142857,
+          "position": 14.6
         }
       ]
     },
@@ -5714,6 +5756,27 @@
           "impressions": 124,
           "ctr": 0.11290322580645161,
           "position": 9.258064516129032
+        },
+        {
+          "date": "2026-10-24",
+          "clicks": 1,
+          "impressions": 63,
+          "ctr": 0.015873015873015872,
+          "position": 19.841269841269842
+        },
+        {
+          "date": "2026-10-25",
+          "clicks": 1,
+          "impressions": 50,
+          "ctr": 0.02,
+          "position": 21.22
+        },
+        {
+          "date": "2026-10-26",
+          "clicks": 19,
+          "impressions": 164,
+          "ctr": 0.11585365853658537,
+          "position": 7.817073170731708
         }
       ]
     },
@@ -5723,6 +5786,13 @@
       "daily": [
         {
           "date": "2026-10-25",
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0
+        },
+        {
+          "date": "2026-10-26",
           "clicks": 0,
           "impressions": 0,
           "ctr": 0.0,
@@ -6354,14 +6424,14 @@
           "date": "2026-10-24",
           "clicks": 0,
           "impressions": 493,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 37.58215010141988
         },
         {
           "date": "2026-10-25",
           "clicks": 0,
           "impressions": 476,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 36.27731092436975
         },
         {
@@ -6913,14 +6983,14 @@
           "date": "2026-10-24",
           "clicks": 0,
           "impressions": 89,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 21.50561797752809
         },
         {
           "date": "2026-10-25",
           "clicks": 0,
           "impressions": 49,
-          "ctr": 0,
+          "ctr": 0.0,
           "position": 27.142857142857142
         },
         {
